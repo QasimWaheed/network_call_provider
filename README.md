@@ -1,6 +1,6 @@
-# counter
+# Network call by using provider
 
-A new Flutter project.
+Call apis with provider.
 
 ## Getting Started
 
